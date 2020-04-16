@@ -1,5 +1,6 @@
 # Under-The-Sea
-Js Drawing
+Language: JS, Turtle
+Topic:Drawing
 Reference: Using loops in functions. Rendering order of functions. How to use randomNumber().
 
 Source: code.org
